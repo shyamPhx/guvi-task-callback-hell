@@ -1,0 +1,35 @@
+h1
+{
+    background: rgb(255,124,0);
+    background: -webkit-linear-gradient(90deg, rgba(255,124,0,1) 13%, rgba(9,121,69,1) 59%, rgba(255,255,255,1) 81%);
+    font-size: 6vh;
+    font-family: cursive;
+    top: 4em;
+    left: 13em; 
+    position:absolute;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    overflow: -moz-hidden-unscrollable;
+} 
+#screen
+{
+    font-size: 6vh;
+    font-family: monospace;
+    position: absolute;
+    top: 4em;
+    left: 13em;
+    background-color: burlywood;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.container
+{
+   
+   
+   width: 220vh;
+   height: 86vh;
+   overflow: -moz-hidden-unscrollable;
+}
+body{
+    background-color: rgb(46, 13, 75);
+}
